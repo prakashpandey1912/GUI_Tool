@@ -23,6 +23,6 @@ It has one more feature for creating a ‘Data Layer’ for connected databases 
 ![Screenshot (166)](https://user-images.githubusercontent.com/67232072/85927248-78ea2b00-b8c2-11ea-83b3-491c9258cbfb.png)
 
 Finally get a DATA LAYER in single click<br>
-For futher we can generate 3-Tier architecture on single click<br>
+For further we can generate 3-Tier architecture on single click<br>
 
 Technologies used : Java , JavaSwing, apache derby,JDBC
